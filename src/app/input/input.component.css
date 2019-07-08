@@ -1,0 +1,13 @@
+form{
+    width: 100%;
+}
+
+@media (min-width: 768px){
+    .w-md-70 {
+        width: 70%;
+    }
+    .img-md{
+        height: 250px; 
+        width: 250px;
+    }
+}
